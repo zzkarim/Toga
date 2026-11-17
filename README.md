@@ -2,7 +2,7 @@
 
 # Toga
 
-Peer-to-peer clothing rentals for college students. This launch is restricted to **Georgia Tech (`@gatech.edu`)**, with an explicit founder login exception for `jointoga@gmail.com`.
+Peer-to-peer clothing rentals for college students. This launch is restricted to **Georgia Tech (`@gatech.edu`)**
 
 Next.js 15 / React 19, Prisma 6, Supabase Postgres, private Supabase Storage, and verified email signup, password login, and Resend transactional email. Production hostname: https://jointoga.com on the existing Vercel project. No in-app payments.
 
